@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250950056634",
+    "project_id": "fir-notesapp-af28c",
+    "storage_bucket": "fir-notesapp-af28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250950056634:android:bfb2636dded3a3cdd82083",
+        "android_client_info": {
+          "package_name": "com.example.jetpack12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xi2KR3cNErP-FCADl0rpxLWHPhyrxCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
